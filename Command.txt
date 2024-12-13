@@ -1,0 +1,3 @@
+Record commands for step 3.a
+	git init
+	git add MyFile.txt
